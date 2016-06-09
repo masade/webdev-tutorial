@@ -22,3 +22,7 @@ Resources
 -- smashingmagazine.com
 -- dribble.com
 -- tympanus.net/codrops/
+
+====================================================
+
+Feedback Link: http://goo.gl/forms/YqJVg7U9UuzhmUo53
